@@ -1,0 +1,56 @@
+[
+  {
+    "title": "핵심만 골라 배우는 Typescript",
+    "image": "https://img.sucoding.kr//course/b0425072bfe4c1d2e7eb856f134f4308.png",
+    "content": "핵심만 콕콕 집어서 기초부터 배워보는 Typescript 강의입니다.",
+    "price": "55,000원"
+  },
+  {
+    "title": "핵심만 골라 배우는 Vue.JS",
+    "image": "https://img.sucoding.kr//course/c5315653b82e4445579f7a60eed2a0c7.png",
+    "content": "핵심만 콕콕 집어서 기초부터 배워보는 Vus.JS(3.x) 강의입니다.",
+    "price": "79,200원"
+  },
+  {
+    "title": "핵심만 골라 배우는 HTML5",
+    "image": "https://img.sucoding.kr//course/8c1bd4af9868020fbb52abeb6e51745b.png",
+    "content": "핵심만 콕콕 집어서 기초부터 배워보는 HTML5 강의입니다.",
+    "price": "35,200원"
+  },
+  {
+    "title": "핵심만 골라 배우는 CSS3",
+    "image": "https://img.sucoding.kr//course/c0ab096b13d465efb1265ba45f4cace6.png",
+    "content": "핵심만 콕콕 집어서 기초부터 배워보는 CSS3 강의입니다.",
+    "price": "59,400원"
+  },
+  {
+    "title": "핵심만 골라 배우는 Javascript",
+    "image": "https://img.sucoding.kr//course/de4973dcc66f9f7c0175fea4f4837d7e.png",
+    "content": "핵심만 콕콕 집어서 기초부터 배워보는 Javascript 강의입니다.",
+    "price": "79,200원"
+  },
+  {
+    "title": "코딩 자율학습 HTML + CSS + 자바스크립트",
+    "image": "https://img.sucoding.kr//course/8c55b0283a63d358160710c4820e12cd.png",
+    "content": "책에 수록된 예제 코드를 확인할 수 있습니다.",
+    "price": "무료"
+  },
+  {
+    "title": "HTML + CSS 기초",
+    "image": "https://img.sucoding.kr//course/a4e0c4a6b0c6f16dc10371088071f561.png",
+    "content": "수코딩 유튜브에 채널에 등록된 무료 HTML+CSS 기초 강의입니다.",
+    "price": "무료"
+  },
+  {
+    "title": "Javascript 기초",
+    "image": "https://img.sucoding.kr//course/4c9f0a89adc6b74c834e0ea5c4bea013.png",
+    "content": "수코딩 유튜브에 채널에 등록된 무료 Javascript 기초 강의입니다.",
+    "price": "55,000원"
+  },
+  {
+    "title": "HTML+CSS+JS 활용",
+    "image": "https://img.sucoding.kr//course/0e9a3bb07f3e336057ed3a1bba73cdd1.png",
+    "content": "수코딩 유튜브에 채널에 등록된 무료 Javascript 기초 강의입니다.",
+    "price": "55,000원"
+  }
+]
