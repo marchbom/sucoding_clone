@@ -5,19 +5,10 @@ export default function MainContent() {
     <>
       <div className="w-4/5 justify-center items-center mx-auto">
         <div className="mt-7">
-          <p className="black-han text-2xl relative text-[20px] black-han after:content-[''] after:block after:h-[1px] after:bg-gray-300 after:absolute after:top-1/2 after:left-full after:ml-2 after:w-full">
-            프론트 엔드 개발자 중급
-          </p>
+          <p className="black-han text-2xl  whitespace-nowrap">프론트엔드 개발자 중급</p>
+          <div className="flex-1 border-t border-gray-300 "></div>
         </div>
-        <section className="flex gap-8 mt-6 pl-4">
-          <CardComponent />
-          <CardComponent />
-        </section>
-        <section className="flex gap-8 mt-6 pl-4">
-          <CardComponent />
-          <CardComponent />
-        </section>
-        <section className="flex gap-8 mt-6 pl-4 pb-4">
+        <section className="">
           <CardComponent />
         </section>
       </div>
